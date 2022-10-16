@@ -279,7 +279,7 @@ try:
             frequent = 'No'
         
         with col1:
-            st.metric(label='Frequent reader or not',value=frequent)    
+            st.metric(label='Frequent reader (Yes or No)',value=frequent)    
 
         
         df_reader_select['LoanDate'] = df_reader_select['LoanDate'].apply(lambda x: x.date())
