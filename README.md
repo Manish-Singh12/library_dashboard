@@ -12,10 +12,10 @@ Live - https://manish-singh12-library-dashboard-library-sjgl84.streamlitapp.com/
 
 ## Project Organization
 
-.streamlit/config.toml                                                   app page configuration
-library.db                                                               library database (sqlite3)
-library.py                                                               python file (streamlit app)
-requirements.txt                                                         libraries and packages 
+- .streamlit/config.toml               : app page configuration
+- library.db                           : library database (sqlite3)
+- library.py                           : python file (streamlit app)
+- requirements.txt                     : libraries and packages 
 ## Library Analysis
 
 A library is a collection of materials, books or media that are accessible for use and not just for display purposes. A library provides physical (hard copies) or digital access (soft copies) materials, and may be a physical location or a virtual space, or both.
