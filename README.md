@@ -1,5 +1,5 @@
 
-# Library Analysis Dashboard 
+# Library Analysis Dashboard with Streamlit 
 
 In this project I have done some sort of analysis using python on library data available in the 
 format sqlite3 database. The tables has all detail of reader, loan date, etc. I have
